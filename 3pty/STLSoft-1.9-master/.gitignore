@@ -1,0 +1,32 @@
+
+# directories (by name)
+
+# directories (by pattern)
+
+# files (by name)
+
+include/stlsoft/internal/dos2unix.has.been.performed
+
+# files (by pattern)
+
+*~
+*.a
+*.app
+*.dll
+*.dylib
+*.exe
+*.gch
+*.lib
+*.o
+*.obj
+*.opensdf
+*.out
+*.pch
+*.sdf
+*.sbr
+*.scc
+*.so
+*.swp
+*.vcproj.user
+*.vcxproj.user
+

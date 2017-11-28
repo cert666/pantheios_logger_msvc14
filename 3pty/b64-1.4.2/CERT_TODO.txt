@@ -1,0 +1,2 @@
+need to manualy create makefile VC14
+and copied stuff inside "lib" folder to  e:\Programming\C++\pantheios_logger\logger\3pty\Pantheios-master\lib\
